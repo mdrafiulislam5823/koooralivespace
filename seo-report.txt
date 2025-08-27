@@ -1,0 +1,609 @@
+# SEO ANALYSIS REPORT - KOORA LIVE STREAMING WEBSITE
+============================================================
+
+Analysis Date: 8/27/2025, 10:51:41 AM
+Website: http://localhost:3000
+
+## OVERVIEW
+------------------------------
+Total Pages Analyzed: 10
+Successful Analyses: 10
+Failed Analyses: 0
+Average Load Time: 2107ms
+Total Recommendations: 18
+
+## RECOMMENDATIONS SUMMARY
+------------------------------
+⚠️  Homepage: Title too long (84 chars). Recommended: 30-60 characters.
+⚠️  Homepage: Slow page load time (5340ms). Target: <3000ms.
+⚠️  About: Title too short (18 chars). Recommended: 30-60 characters.
+⚠️  About: Meta description too short (91 chars). Recommended: 120-160 characters.
+⚠️  About: No structured data (Schema.org) found.
+⚠️  Contact: Title too short (20 chars). Recommended: 30-60 characters.
+⚠️  Contact: Meta description too short (60 chars). Recommended: 120-160 characters.
+⚠️  Contact: No structured data (Schema.org) found.
+⚠️  Saudi Pro League: No structured data (Schema.org) found.
+⚠️  Match Page 1: Meta description too short (71 chars). Recommended: 120-160 characters.
+⚠️  Match Page 2: Meta description too short (73 chars). Recommended: 120-160 characters.
+⚠️  Football News: Meta description too short (95 chars). Recommended: 120-160 characters.
+⚠️  Football News: No structured data (Schema.org) found.
+⚠️  Football Highlights: Title too long (61 chars). Recommended: 30-60 characters.
+⚠️  Mobile App: Meta description too short (114 chars). Recommended: 120-160 characters.
+⚠️  Privacy Policy: Title too short (26 chars). Recommended: 30-60 characters.
+⚠️  Privacy Policy: Meta description too short (61 chars). Recommended: 120-160 characters.
+⚠️  Privacy Policy: No structured data (Schema.org) found.
+
+## DETAILED PAGE ANALYSIS
+------------------------------
+
+### Homepage
+URL: http://localhost:3000/
+Status Code: 200
+Load Time: 5340ms
+
+**Title:**
+- Content: "Koora Live - كورة لايف - كورة لايف بث مباشر | مشاهدة المباريات مباشرة الدوري السعودي"
+- Length: 84 characters
+- Optimal: ❌
+
+**Meta Description:**
+- Content: "Koora Live - كورة لايف - كورة لايف بث مباشر للدوري السعودي والدوريات العالمية. شاهد مباريات كرة القدم مباشرة بجودة عالية ومجاناً مع Koora Live كورة لايف"
+- Length: 152 characters
+- Optimal: ✅
+
+**Header Structure:**
+- H1: 1 found
+- H2: 4 found
+- H3: 27 found
+- H4: 2 found
+
+**Images:**
+- Total: 20
+- With Alt Text: 20
+- Without Alt Text: 0 ✅
+- Lazy Loaded: 19
+
+**Links:**
+- Total: 24
+- Internal: 21
+- External: 3
+- Without Text: 0 ✅
+
+**Structured Data:**
+- Found: 3 schema(s) ✅
+  - Schema 1: WebSite
+  - Schema 2: Article
+  - Schema 3: FAQPage
+
+**Social Media Meta:**
+- Open Graph tags: 10 ✅
+- Twitter Card tags: 5 ✅
+
+**Mobile Optimization:**
+- Viewport Meta: ✅
+- Horizontal Scroll: ✅
+
+**Content Analysis:**
+- Word Count: 10203
+- Reading Time: 52 minutes
+- Sufficient Content: ✅
+
+**Performance:**
+- Load Time: 5340ms ⚠️
+- First Contentful Paint: 4244ms
+
+
+### About
+URL: http://localhost:3000/about
+Status Code: 200
+Load Time: 1434ms
+
+**Title:**
+- Content: "من نحن - كورة لايف"
+- Length: 18 characters
+- Optimal: ❌
+
+**Meta Description:**
+- Content: "تعرف على كورة لايف، منصة البث المباشر الأولى لمباريات كرة القدم في المملكة العربية السعودية"
+- Length: 91 characters
+- Optimal: ❌
+
+**Header Structure:**
+- H1: 1 found
+- H3: 3 found
+
+**Images:**
+- Total: 0
+- With Alt Text: 0
+- Without Alt Text: 0 ✅
+- Lazy Loaded: 0
+
+**Links:**
+- Total: 13
+- Internal: 13
+- External: 0
+- Without Text: 0 ✅
+
+**Structured Data:**
+- No structured data found ⚠️
+
+**Social Media Meta:**
+- Open Graph tags: 3 ✅
+- Twitter Card tags: 3 ✅
+
+**Mobile Optimization:**
+- Viewport Meta: ✅
+- Horizontal Scroll: ✅
+
+**Content Analysis:**
+- Word Count: 2986
+- Reading Time: 15 minutes
+- Sufficient Content: ✅
+
+**Performance:**
+- Load Time: 1434ms ✅
+- First Contentful Paint: 368ms
+
+
+### Contact
+URL: http://localhost:3000/contact
+Status Code: 200
+Load Time: 2006ms
+
+**Title:**
+- Content: "اتصل بنا - كورة لايف"
+- Length: 20 characters
+- Optimal: ❌
+
+**Meta Description:**
+- Content: "تواصل مع فريق كورة لايف للاستفسارات والدعم الفني والاقتراحات"
+- Length: 60 characters
+- Optimal: ❌
+
+**Header Structure:**
+- H1: 1 found
+- H3: 10 found
+
+**Images:**
+- Total: 0
+- With Alt Text: 0
+- Without Alt Text: 0 ✅
+- Lazy Loaded: 0
+
+**Links:**
+- Total: 13
+- Internal: 13
+- External: 0
+- Without Text: 0 ✅
+
+**Structured Data:**
+- No structured data found ⚠️
+
+**Social Media Meta:**
+- Open Graph tags: 3 ✅
+- Twitter Card tags: 3 ✅
+
+**Mobile Optimization:**
+- Viewport Meta: ✅
+- Horizontal Scroll: ✅
+
+**Content Analysis:**
+- Word Count: 2849
+- Reading Time: 15 minutes
+- Sufficient Content: ✅
+
+**Performance:**
+- Load Time: 2006ms ✅
+- First Contentful Paint: 524ms
+
+
+### Saudi Pro League
+URL: http://localhost:3000/saudi-pro-league
+Status Code: 200
+Load Time: 1947ms
+
+**Title:**
+- Content: "الدوري السعودي للمحترفين 2025 - مشاهدة مباشرة | Koora Live"
+- Length: 58 characters
+- Optimal: ✅
+
+**Meta Description:**
+- Content: "تابع أحدث أخبار ومباريات الدوري السعودي للمحترفين مع Koora Live. مشاهدة مباشرة لجميع مباريات الهلال والنصر والاتحاد والأهلي"
+- Length: 123 characters
+- Optimal: ✅
+
+**Header Structure:**
+- H1: 1 found
+- H2: 4 found
+- H3: 4 found
+
+**Images:**
+- Total: 0
+- With Alt Text: 0
+- Without Alt Text: 0 ✅
+- Lazy Loaded: 0
+
+**Links:**
+- Total: 4
+- Internal: 4
+- External: 0
+- Without Text: 0 ✅
+
+**Structured Data:**
+- No structured data found ⚠️
+
+**Social Media Meta:**
+- Open Graph tags: 3 ✅
+- Twitter Card tags: 4 ✅
+
+**Mobile Optimization:**
+- Viewport Meta: ✅
+- Horizontal Scroll: ✅
+
+**Content Analysis:**
+- Word Count: 2281
+- Reading Time: 12 minutes
+- Sufficient Content: ✅
+
+**Performance:**
+- Load Time: 1947ms ✅
+- First Contentful Paint: 400ms
+
+
+### Match Page 1
+URL: http://localhost:3000/match/1
+Status Code: 200
+Load Time: 1775ms
+
+**Title:**
+- Content: "الهلال مقابل النصر 2-1 - مباشر | كورة لايف"
+- Length: 42 characters
+- Optimal: ✅
+
+**Meta Description:**
+- Content: "شاهد مباراة الهلال مقابل النصر مباشر في دوري روشن السعودي على كورة لايف"
+- Length: 71 characters
+- Optimal: ❌
+
+**Header Structure:**
+- H1: 1 found
+- H3: 3 found
+
+**Images:**
+- Total: 0
+- With Alt Text: 0
+- Without Alt Text: 0 ✅
+- Lazy Loaded: 0
+
+**Links:**
+- Total: 13
+- Internal: 13
+- External: 0
+- Without Text: 0 ✅
+
+**Structured Data:**
+- Found: 1 schema(s) ✅
+  - Schema 1: SportsEvent
+
+**Social Media Meta:**
+- Open Graph tags: 8 ✅
+- Twitter Card tags: 7 ✅
+
+**Mobile Optimization:**
+- Viewport Meta: ✅
+- Horizontal Scroll: ✅
+
+**Content Analysis:**
+- Word Count: 2937
+- Reading Time: 15 minutes
+- Sufficient Content: ✅
+
+**Performance:**
+- Load Time: 1775ms ✅
+- First Contentful Paint: 544ms
+
+
+### Match Page 2
+URL: http://localhost:3000/match/2
+Status Code: 200
+Load Time: 1486ms
+
+**Title:**
+- Content: "الاتحاد مقابل الأهلي 0-0 - مباشر | كورة لايف"
+- Length: 44 characters
+- Optimal: ✅
+
+**Meta Description:**
+- Content: "شاهد مباراة الاتحاد مقابل الأهلي مباشر في دوري روشن السعودي على كورة لايف"
+- Length: 73 characters
+- Optimal: ❌
+
+**Header Structure:**
+- H1: 1 found
+- H3: 3 found
+
+**Images:**
+- Total: 0
+- With Alt Text: 0
+- Without Alt Text: 0 ✅
+- Lazy Loaded: 0
+
+**Links:**
+- Total: 13
+- Internal: 13
+- External: 0
+- Without Text: 0 ✅
+
+**Structured Data:**
+- Found: 1 schema(s) ✅
+  - Schema 1: SportsEvent
+
+**Social Media Meta:**
+- Open Graph tags: 8 ✅
+- Twitter Card tags: 7 ✅
+
+**Mobile Optimization:**
+- Viewport Meta: ✅
+- Horizontal Scroll: ✅
+
+**Content Analysis:**
+- Word Count: 2945
+- Reading Time: 15 minutes
+- Sufficient Content: ✅
+
+**Performance:**
+- Load Time: 1486ms ✅
+- First Contentful Paint: 468ms
+
+
+### Football News
+URL: http://localhost:3000/football-news
+Status Code: 200
+Load Time: 1975ms
+
+**Title:**
+- Content: "أخبار كرة القدم السعودية والعربية اليوم | Koora Live"
+- Length: 52 characters
+- Optimal: ✅
+
+**Meta Description:**
+- Content: "تابع آخر أخبار كرة القدم السعودية والعربية مع Koora Live. أخبار الانتقالات والمباريات والبطولات"
+- Length: 95 characters
+- Optimal: ❌
+
+**Header Structure:**
+- H1: 1 found
+- H2: 4 found
+- H3: 5 found
+- H4: 3 found
+
+**Images:**
+- Total: 0
+- With Alt Text: 0
+- Without Alt Text: 0 ✅
+- Lazy Loaded: 0
+
+**Links:**
+- Total: 4
+- Internal: 4
+- External: 0
+- Without Text: 0 ✅
+
+**Structured Data:**
+- No structured data found ⚠️
+
+**Social Media Meta:**
+- Open Graph tags: 3 ✅
+- Twitter Card tags: 4 ✅
+
+**Mobile Optimization:**
+- Viewport Meta: ✅
+- Horizontal Scroll: ✅
+
+**Content Analysis:**
+- Word Count: 2286
+- Reading Time: 12 minutes
+- Sufficient Content: ✅
+
+**Performance:**
+- Load Time: 1975ms ✅
+- First Contentful Paint: 340ms
+
+
+### Football Highlights
+URL: http://localhost:3000/football-highlights
+Status Code: 200
+Load Time: 1411ms
+
+**Title:**
+- Content: "ملخصات مباريات كرة القدم | Koora Live - أفضل ملخصات المباريات"
+- Length: 61 characters
+- Optimal: ❌
+
+**Meta Description:**
+- Content: "شاهد أفضل ملخصات مباريات كرة القدم على Koora Live كورة لايف. ملخصات حصرية للدوري السعودي والدوريات العالمية بجودة HD مجاناً"
+- Length: 123 characters
+- Optimal: ✅
+
+**Header Structure:**
+- H1: 1 found
+- H2: 5 found
+- H3: 10 found
+- H4: 2 found
+
+**Images:**
+- Total: 1
+- With Alt Text: 1
+- Without Alt Text: 0 ✅
+- Lazy Loaded: 1
+
+**Links:**
+- Total: 6
+- Internal: 6
+- External: 0
+- Without Text: 0 ✅
+
+**Structured Data:**
+- Found: 1 schema(s) ✅
+  - Schema 1: Article
+
+**Social Media Meta:**
+- Open Graph tags: 3 ✅
+- Twitter Card tags: 4 ✅
+
+**Mobile Optimization:**
+- Viewport Meta: ✅
+- Horizontal Scroll: ✅
+
+**Content Analysis:**
+- Word Count: 2607
+- Reading Time: 14 minutes
+- Sufficient Content: ✅
+
+**Performance:**
+- Load Time: 1411ms ✅
+- First Contentful Paint: 588ms
+
+
+### Mobile App
+URL: http://localhost:3000/mobile-app
+Status Code: 200
+Load Time: 1702ms
+
+**Title:**
+- Content: "تطبيق كورة لايف للجوال | Koora Live - حمل التطبيق الآن"
+- Length: 54 characters
+- Optimal: ✅
+
+**Meta Description:**
+- Content: "حمل تطبيق Koora Live كورة لايف للجوال واستمتع بمشاهدة مباريات كرة القدم في أي مكان. متوفر قريباً على أندرويد و iOS"
+- Length: 114 characters
+- Optimal: ❌
+
+**Header Structure:**
+- H1: 1 found
+- H2: 4 found
+- H3: 12 found
+- H4: 9 found
+- H5: 3 found
+
+**Images:**
+- Total: 1
+- With Alt Text: 1
+- Without Alt Text: 0 ✅
+- Lazy Loaded: 1
+
+**Links:**
+- Total: 3
+- Internal: 3
+- External: 0
+- Without Text: 0 ✅
+
+**Structured Data:**
+- Found: 1 schema(s) ✅
+  - Schema 1: MobileApplication
+
+**Social Media Meta:**
+- Open Graph tags: 3 ✅
+- Twitter Card tags: 4 ✅
+
+**Mobile Optimization:**
+- Viewport Meta: ✅
+- Horizontal Scroll: ✅
+
+**Content Analysis:**
+- Word Count: 2777
+- Reading Time: 14 minutes
+- Sufficient Content: ✅
+
+**Performance:**
+- Load Time: 1702ms ✅
+- First Contentful Paint: 428ms
+
+
+### Privacy Policy
+URL: http://localhost:3000/privacy
+Status Code: 200
+Load Time: 1994ms
+
+**Title:**
+- Content: "سياسة الخصوصية - كورة لايف"
+- Length: 26 characters
+- Optimal: ❌
+
+**Meta Description:**
+- Content: "سياسة الخصوصية وحماية البيانات في موقع كورة لايف للبث المباشر"
+- Length: 61 characters
+- Optimal: ❌
+
+**Header Structure:**
+- H1: 1 found
+- H3: 5 found
+
+**Images:**
+- Total: 0
+- With Alt Text: 0
+- Without Alt Text: 0 ✅
+- Lazy Loaded: 0
+
+**Links:**
+- Total: 13
+- Internal: 13
+- External: 0
+- Without Text: 0 ✅
+
+**Structured Data:**
+- No structured data found ⚠️
+
+**Social Media Meta:**
+- Open Graph tags: 3 ✅
+- Twitter Card tags: 3 ✅
+
+**Mobile Optimization:**
+- Viewport Meta: ✅
+- Horizontal Scroll: ✅
+
+**Content Analysis:**
+- Word Count: 3578
+- Reading Time: 18 minutes
+- Sufficient Content: ✅
+
+**Performance:**
+- Load Time: 1994ms ✅
+- First Contentful Paint: 432ms
+
+## TECHNICAL SEO
+------------------------------
+
+**robots.txt:**
+- Accessible: ✅
+- Status Code: 200
+
+**sitemap.xml:**
+- Accessible: ✅
+- Status Code: 200
+
+## SEO SCORE
+------------------------------
+Overall SEO Score: 10/100
+
+🚨 Significant SEO issues requiring immediate attention.
+
+## PRIORITY ACTIONS
+------------------------------
+**Warnings (Address Soon):**
+- Homepage: Title too long (84 chars). Recommended: 30-60 characters.
+- Homepage: Slow page load time (5340ms). Target: <3000ms.
+- About: Title too short (18 chars). Recommended: 30-60 characters.
+- About: Meta description too short (91 chars). Recommended: 120-160 characters.
+- About: No structured data (Schema.org) found.
+- Contact: Title too short (20 chars). Recommended: 30-60 characters.
+- Contact: Meta description too short (60 chars). Recommended: 120-160 characters.
+- Contact: No structured data (Schema.org) found.
+- Saudi Pro League: No structured data (Schema.org) found.
+- Match Page 1: Meta description too short (71 chars). Recommended: 120-160 characters.
+- ... and 8 more warnings
+
+============================================================
+Report generated by SEO Analyzer
+Generated on: 8/27/2025, 10:51:42 AM
