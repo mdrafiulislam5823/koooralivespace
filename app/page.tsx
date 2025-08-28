@@ -19,11 +19,11 @@ const NewsletterSignup = dynamic(() => import("@/components/newsletter-signup").
 })
 
 export const metadata: Metadata = {
-  title: "Koora Live كورة لايف - بث مباشر مجاني",
+title: "Koora Live كورة لايف - كورة لايف بث مباشر",
   description:
     "شاهد مباريات الدوري السعودي والدوريات العالمية مجاناً مع Koora Live كورة لايف. بث مباشر بجودة HD، تعليق عربي احترافي، وإحصائيات مفصلة. انضم لملايين المشجعين واستمتع بأفضل تجربة مشاهدة كرة القدم على الإنترنت.",
   keywords:
-    "Koora Live, كورة لايف, كورة لايف بث مباشر, مباريات مباشرة, الدوري السعودي, كرة القدم, بث مباشر, الهلال, النصر, الاتحاد, الأهلي, مباريات اليوم, كورة لايف السعودية, Koora Live streaming",
+    "Koora Live, كورة لايف, كورة لايف كورة لايف, كورة لايف بث مباشر, مباريات مباشرة, الدوري السعودي, كرة القدم, بث مباشر, الهلال, النصر, الاتحاد, الأهلي, مباريات اليوم, كورة لايف السعودية, Koora Live streaming",
   authors: [{ name: "Koora Live - كورة لايف" }],
   creator: "Koora Live - كورة لايف",
   publisher: "Koora Live - كورة لايف",
@@ -74,7 +74,10 @@ export const metadata: Metadata = {
     },
   },
   verification: {
-    google: "your-google-verification-code",
+    google: "febM60XYajjy8gCu2rH3CY6LnZqTXn-QYCC2BrkriMw",
+    other: {
+      "msvalidate.01": "82AC4C1E9E3BA765E650676DF0416FC8",
+    },
   },
 }
 
